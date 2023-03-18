@@ -13,6 +13,7 @@ public class Main{
    static ArrayList<Integer> cpuPositions = new ArrayList<Integer>();
 
    public static void main(String[] args) {
+      // board
 
       char[][] gameBoard = {{' ', '|', ' ', '|', ' '},
          {'-', '+', '-', '+', '-'},
